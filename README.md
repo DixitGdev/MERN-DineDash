@@ -1,43 +1,64 @@
-# Food Delivery
+# DineDash - Food Delivery - [(Live App Link)]()
 
 <div align="center">
-  <img width="200px" src="https://cdn-icons-png.flaticon.com/512/4039/4039232.png"/>
+  <img width="150px" src="https://cdn-icons-png.flaticon.com/512/4039/4039232.png"/>
 </div>
 <br>
 
-> Food Delivery app made using MERN stack (UNDER DEVLOPEMENT) <br>
-> APP uses morden React and NodeJS features like Modules ,Skeletons , React Portals ,Redux thunk<br>
-> Followed MVC architecture and microservices for serever side
+### Hightlights (Screenshorts Attached ⬇️)
+- > Food Delivery app made using MERN stack<br>
+- > APP uses morden React and NodeJS features like Modules ,Skeletons , React Portals ,Redux thunk<br>
+- > Followed MVC architecture and microservices for serever side
+- > ***NOTE: This is lighter version of original website, due to NDA signed.***
 
-## ⚙️ Detailed Functionality
 
-- Users have to authenticate themselves by Email
-- User can add carts items to cart
-- Users can update quantity delete the item
-- User can check the summry of ordre like items price ,delivery price and total
-- User can select COD or online (Razorpay) payment for order
-- After Placing order user will redirect to ordere details page and recives an email of order
-- User can view there old orders and profile
-- User can add , edit or delete address while checkout
+## 🚀 Tech and Tools Used - MERN ⚒️🔥🔍
 
-## 🚀 Tech and Tools Used
+- React.JS 
+- Redux
+- NodeJS
+- Express
+- MongoDB
+- VS Code
+- Heruko
+- REST APIS
+- GoogleAPIs
+- Yup
 
-- React.JS ,Redux ,NodeJS ,ExpressJs,MongoDB
-- VS code,Heruko
-- React Icons,REST APIS ,JWT ,GoogleAPIs,Yup
+## ⚙️ Features 🚀
+
+- User Authentication by Email
+- User can add carts items to the cart
+- Users can update quantity & delete the item
+- User can check the summary of the order like items price, delivery price and total
+- User can select COD or online (Razorpay) payment for the order
+- After Placing the order user will redirect to the order details page and receive an email with the order
+- Users can view their old orders and profile
+- User can add, edit or delete address during checkout
+
+
 
 ## 📸 Screenshots
 
 ## Home Page
 
-<img src="./frontend/src/assests/mern-food-delivery-app.herokuapp.com_.png" width='800' height='auto'>
-<br>
+![SS-MAIN](https://github.com/DixitGdev/MERN-DineDash/assets/51261247/8dc1fdfe-2716-44ca-abaf-a13940032c20)
+
+## Cart Management
+
+![Cart Mangement](https://github.com/DixitGdev/MERN-DineDash/assets/51261247/a8122afa-df45-44b2-87aa-cfca20c6e10d)
+
+## Address Management
+
+![Address_MGMT](https://github.com/DixitGdev/MERN-DineDash/assets/51261247/47628f55-5b5f-4db1-b252-aa61c0e3c115)
+
+## Profile Management
+
+![SS-PROFILE](https://github.com/DixitGdev/MERN-DineDash/assets/51261247/05249e49-64af-469f-93f3-20bf72e0aefe)
+
+
 
 ## Pizza Builder Page
 
 <img src="./custom-pizza.png" width='800' height='auto'>
 <br>
-
-### LINK :
-
-https://rio-ci4k.onrender.com/
