@@ -1,4 +1,4 @@
-# DineDash - Food Delivery - [(Live App Link)]()
+# DineDash - Food Delivery - [(Live App Link)](https://rio-ci4k.onrender.com/)
 
 <div align="center">
   <img width="150px" src="https://cdn-icons-png.flaticon.com/512/4039/4039232.png"/>
