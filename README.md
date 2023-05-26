@@ -20,7 +20,7 @@
 - Express
 - MongoDB
 - VS Code
-- Heruko
+- Heroku
 - REST APIS
 - GoogleAPIs
 - Yup
